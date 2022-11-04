@@ -1,4 +1,4 @@
 # Youtube-player-Api
 
-//*Dependency*//
+*Dependency*
 implementation files('libs\\YouTubeAndroidPlayerApi.jar')
